@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Site</title>
+    <link>https://pghud3.github.io/</link>
+    <description>Recent content on Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Apr 2020 10:57:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://pghud3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News</title>
+      <link>https://pghud3.github.io/news/news/</link>
+      <pubDate>Sat, 11 Apr 2020 10:57:25 -0400</pubDate>
+      
+      <guid>https://pghud3.github.io/news/news/</guid>
+      <description>This is a news announcement.</description>
+    </item>
+    
+    <item>
+      <title>Featured</title>
+      <link>https://pghud3.github.io/pages/featured/</link>
+      <pubDate>Sat, 11 Apr 2020 10:52:00 -0400</pubDate>
+      
+      <guid>https://pghud3.github.io/pages/featured/</guid>
+      <description>This is my featured page</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://pghud3.github.io/pages/about/</link>
+      <pubDate>Sat, 11 Apr 2020 10:51:54 -0400</pubDate>
+      
+      <guid>https://pghud3.github.io/pages/about/</guid>
+      <description>This is my about page!!!</description>
+    </item>
+    
+    <item>
+      <title>My Third Post</title>
+      <link>https://pghud3.github.io/posts/my-third-post/</link>
+      <pubDate>Sat, 11 Apr 2020 10:51:30 -0400</pubDate>
+      
+      <guid>https://pghud3.github.io/posts/my-third-post/</guid>
+      <description>This is my third post</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://pghud3.github.io/posts/my-second-post/</link>
+      <pubDate>Sat, 11 Apr 2020 10:51:22 -0400</pubDate>
+      
+      <guid>https://pghud3.github.io/posts/my-second-post/</guid>
+      <description>This is my second post</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://pghud3.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 11 Apr 2020 10:51:17 -0400</pubDate>
+      
+      <guid>https://pghud3.github.io/posts/my-first-post/</guid>
+      <description>This is my First post</description>
+    </item>
+    
+  </channel>
+</rss>

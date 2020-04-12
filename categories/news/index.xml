@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on Test Site</title>
+    <link>https://pghud3.github.io/categories/news/</link>
+    <description>Recent content in news on Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Apr 2020 10:57:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://pghud3.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News</title>
+      <link>https://pghud3.github.io/news/news/</link>
+      <pubDate>Sat, 11 Apr 2020 10:57:25 -0400</pubDate>
+      
+      <guid>https://pghud3.github.io/news/news/</guid>
+      <description>This is a news announcement.</description>
+    </item>
+    
+  </channel>
+</rss>

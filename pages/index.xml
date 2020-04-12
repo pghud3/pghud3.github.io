@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Test Site</title>
+    <link>https://pghud3.github.io/pages/</link>
+    <description>Recent content in Pages on Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Apr 2020 10:52:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://pghud3.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Featured</title>
+      <link>https://pghud3.github.io/pages/featured/</link>
+      <pubDate>Sat, 11 Apr 2020 10:52:00 -0400</pubDate>
+      
+      <guid>https://pghud3.github.io/pages/featured/</guid>
+      <description>This is my featured page</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://pghud3.github.io/pages/about/</link>
+      <pubDate>Sat, 11 Apr 2020 10:51:54 -0400</pubDate>
+      
+      <guid>https://pghud3.github.io/pages/about/</guid>
+      <description>This is my about page!!!</description>
+    </item>
+    
+  </channel>
+</rss>
